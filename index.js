@@ -13,7 +13,8 @@ var pickInputs = {
         'country_iso3166': 'current_observation.display_location.country_iso3166',
         'local_time_rfc822': 'current_observation.local_time_rfc822',
         'weather': 'current_observation.weather',
-        'temp_c': 'current_observation.temp_c',
+        'temp_c': 'current_observation.temp_c' +
+        '',
         'relative_humidity': 'current_observation.relative_humidity',
         'wind_string': 'current_observation.wind_string',
         'forecast_url': 'current_observation.forecast_url'
