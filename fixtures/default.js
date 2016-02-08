@@ -65,6 +65,7 @@ module.exports = _.merge({
                 country: 'US',
                 state: 'CA',
                 city: 'San_Francisco'
+            }
         }
     }
 }, env);
